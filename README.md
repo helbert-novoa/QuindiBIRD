@@ -29,4 +29,4 @@ Este repositorio contiene scripts en formato Jupyter Notebook (`.ipynb`) para la
 1. **Clonar el Repositorio**:
    ```sh
    git clone https://github.com/helbert-novoa/QuindiBIRD
-   cd tu-repositorio
+   cd https://github.com/helbert-novoa/QuindiBIRD
